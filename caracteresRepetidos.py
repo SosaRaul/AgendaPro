@@ -1,4 +1,4 @@
-
+# HE!
 ## TODO : Optimizar para que las claves solo sean las de las letras de la palabra.
 import operator
 import string
